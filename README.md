@@ -1,2 +1,2 @@
 # CreditCardProject_Garima-and-Mayank-
-Credit Card Project - made by - GARIMA SHARMA and MAYANK DADHICH 
+Credit Card Fraud Detection Project - made by - GARIMA SHARMA and MAYANK DADHICH 
